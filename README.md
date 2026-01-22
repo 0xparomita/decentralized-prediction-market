@@ -36,3 +36,4 @@ node resolve.js
 
 # 6. Claim Winnings
 node claim.js
+YOLO badge test 😆
